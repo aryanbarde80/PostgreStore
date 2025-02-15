@@ -6,7 +6,7 @@ Highlights:
 - 🚀 Rate Limiting & Bot Detection
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and client
-- ⭐ Deployment for FREE!
+- ⭐ Deployment on Render!
 - ⏳ And much more!
 
 ### Setup .env file

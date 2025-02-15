@@ -1,6 +1,4 @@
-<h1 align="center">✨ PERN Stack Tutorial ✨</h1>
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<h1 align="center">✨ PERN Stack Project ✨</h1>
 
 Highlights:
 
@@ -8,7 +6,7 @@ Highlights:
 - 🚀 Rate Limiting & Bot Detection
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and client
-- ⭐ Deployment for FREE!
+- ⭐ Deployment on Render!
 - ⏳ And much more!
 
 ### Setup .env file

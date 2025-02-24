@@ -29,6 +29,7 @@ ARCJET_ENV=development
 npm run dev
 ```
 
+`❤️ Made with heart ❤️`
 ### Run the frontend
 
 ```shell
